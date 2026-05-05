@@ -1,84 +1,27 @@
-👋 Hello, I'm Rahul Sahani
-I'm a BCA student from Lucknow, passionate about building real-world automation systems, backend applications, and AI-powered workflows.
+# 💫 About Me:
+💼 Rahul Sahani<br><br>BCA Student | AI Automation & Backend Developer<br><br>👋 About Me<br><br>I am a BCA student based in Lucknow, focused on building real-world automation systems, backend applications, and AI-powered workflows.<br><br>I specialize in developing practical, scalable solutions that help businesses automate repetitive tasks, improve efficiency, and streamline operations using modern technologies.<br><br>🚀 Current Focus<br>AI Automation & Workflow Development using n8n & APIs<br>Backend Development with Python, Django, PHP & MySQL<br>Designing ERP Systems, Bots & Data-driven Dashboards<br>API Integrations (Telegram, WhatsApp, Gmail, Google Sheets)<br>Building scalable and production-ready digital solutions<br>🛠️ Technical Skills<br>⚙️ Automation & AI<br>n8n Workflow Automation<br>AI API Integration (Groq, OpenRouter, Gemini)<br>Telegram Bot Development<br>WhatsApp Automation (Cloud API)<br>Webhooks & API Integration<br>JSON Processing & Logic Building<br>🧠 Backend Development<br>Python (Project-Based Learning)<br>Django (Beginner Level)<br>PHP & MySQL<br>CRUD Applications & Database Design<br>🎨 Frontend Development<br>HTML, CSS, JavaScript<br>Bootstrap & Tailwind CSS<br>Responsive & Clean UI Design<br>🔧 Tools & Technologies<br>Git & GitHub<br>REST APIs<br>Google Sheets & Apps Script<br>Email Automation (PHPMailer, Gmail API)<br>PDF Generation & Reporting Systems<br>💼 Projects & Experience<br>🤖 EduPay Tracker (Automation ERP System)<br><br>Developed an automation-based ERP solution for educational institutes featuring:<br><br>Student fee tracking (paid, unpaid, partial)<br>Google Sheets integration for real-time data<br>Automated email notifications & receipt generation<br>Analytics dashboard for insights<br>PDF-based receipt system<br>🤖 AI Resume Analyzer & Job Finder<br><br>Built an AI-powered system that:<br><br>Calculates ATS score<br>Provides resume improvement suggestions<br>Generates job search links automatically<br>Sends structured reports via email<br>Implemented using n8n and AI APIs<br>🛒 OmniBiz Automation System<br><br>Designed a business automation workflow including:<br><br>Lead-to-order automation pipeline<br>Telegram bot and web integration<br>Product database & order tracking system<br>Automated customer interaction handling<br>💸 Fees Management System (Web Application)<br>Backend-driven fee calculation system<br>Automated receipt generation<br>Database-integrated system using PHP & MySQL<br>🌐 Student Resource & Productivity Hub<br>Task management system<br>File upload and storage features<br>Productivity-focused dashboard<br>📝 Social Platform (CRUD Application)<br>User authentication (Login/Signup)<br>Post creation, likes, comments<br>User profile management system<br>📥 PDF & File Utility Website<br>File conversion and compression tools<br>Lightweight and responsive interface<br>🎯 Career Goals<br>Secure a role as a Junior Python / Django Developer<br>Build impactful AI & Automation-based solutions<br>Grow through freelancing and real-world projects<br>Help businesses optimize workflows through automation<br>⚡ Work Approach<br>Strong focus on learning by building real projects<br>Problem-solving mindset with practical implementation<br>Continuous improvement and skill enhancement<br>🔗 Connect<br><br>Feel free to explore my projects and connect for collaboration or opportunities.
 
-I focus on creating practical solutions that save time, automate tasks, and solve real business problems using modern tools and technologies.
 
-🚀 Current Focus
-AI Automation & Workflow Development (n8n, APIs)
-Backend Development with Python, Django & PHP
-Building Real-World Automation Systems (ERP, Bots, Dashboards)
-API Integrations (Telegram, WhatsApp, Gmail, Google Sheets)
-Developing scalable and useful digital products
-🛠️ Skills
-⚙️ Automation & AI (Primary)
-n8n Workflow Automation
-AI Integrations (Groq, OpenRouter, Gemini APIs)
-Telegram Bot Development
-WhatsApp Automation (Cloud API)
-Webhooks & API Integration
-JSON Data Handling & Logic Building
-🧠 Backend Development
-Python (Learning & Building Projects)
-Django (Beginner Level)
-PHP & MySQL
-CRUD Operations & Database Design
-🎨 Frontend (Support)
-HTML, CSS, JavaScript
-Bootstrap & Tailwind CSS
-Responsive UI Design
-🔧 Tools & Concepts
-Git & GitHub
-REST APIs
-Google Sheets & Apps Script
-Email Automation (PHPMailer, Gmail API)
-PDF Generation & Reports
-💼 Projects & Real Work
-🤖 EduPay Tracker (Automation ERP)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rahul Sahani) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rahul Sahani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahul.coder99@gmail.com) 
 
-An advanced automation system for institutes with:
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rahulsahani74&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=rahulsahani74&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rahulsahani74&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Student fee tracking (paid/unpaid/partial)
-Google Sheets integration
-Automated email notifications & receipts
-Dashboard for analytics
-PDF receipt generation
-🤖 AI Resume Analyzer + Job Finder
-ATS score calculation
-Resume improvement suggestions
-Auto-generated job links
-Email-based report system
-Built using n8n + AI APIs
-🛒 OmniBiz Automation System
-Lead to Order automation system
-Telegram bot + Website integration
-Product database & order tracking
-Customer interaction automation
-💸 Fees Management System (Web App)
-Fee calculation system
-Receipt generation
-Backend + database integration
-🌐 Student Resource & Productivity Hub
-Task management
-File uploads
-Productivity tools dashboard
-📝 Social Platform (CRUD Project)
-User login/signup
-Posts, likes, comments
-Profile system
-📥 PDF & File Utility Website
-File conversion & compression tools
-Lightweight responsive UI
-🎯 Goals
-Become a Junior Python / Django Developer
-Build powerful AI + Automation-based products
-Earn through freelancing & real-world automation systems
-Help businesses automate repetitive tasks
-⚡ Mindset
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rahulsahani74&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Learning by building.
-Focused on real-world impact, not just theory.
-Improving every single day 🚀
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🔗 Connect with Me
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rahulsahani74&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-Feel free to explore my projects and connect with me.
+---
+[![](https://komarev.com/ghpvc/?username=rahulsahani74&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
