@@ -4,208 +4,83 @@
 
 🎓 BCA Student | Data Analyst | AI Automation & Backend Developer
 
-👋 About Me
+👋 Passionate about transforming raw data into meaningful insights through Data Analytics, Business Intelligence, and Automation.
 
-I am a BCA student based in Lucknow, passionate about Data Analytics, Business Intelligence, Automation, and Backend Development.
+📊 Currently Learning & Building With:
 
-I enjoy working with data to discover insights, create interactive dashboards, analyze business performance, and build automation solutions that improve efficiency and decision-making.
+* Excel & Advanced Excel
+* SQL & MySQL
+* Power BI
+* Python for Data Analytics
+* Data Visualization & Dashboarding
+* Business Intelligence
+* n8n Workflow Automation
 
-Currently, I am focused on strengthening my skills in Excel, SQL, Power BI, Python, Data Visualization, and Business Analytics through hands-on projects and real-world datasets.
-
----
-
-## 🚀 Current Focus
-
-📊 Data Analytics & Business Intelligence
-
-📈 Dashboard Development & Data Visualization
-
-🗄️ SQL & Database Analytics
-
-📉 Data Cleaning & Data Preparation
-
-📋 KPI Reporting & Business Insights
-
-🐍 Python for Data Analysis
-
-📊 Power BI Dashboard Development
-
-🤖 AI Automation & Workflow Development
-
----
-
-## 🛠️ Technical Skills
+🛠️ Technical Skills
 
 ### 📊 Data Analytics
 
-* Microsoft Excel
-* Advanced Excel
-* Pivot Tables
-* Pivot Charts
-* Lookup Functions
-* Data Cleaning
-* Data Wrangling
-* Data Transformation
-* KPI Analysis
-* Business Reporting
-* Dashboard Development
-* Data Visualization
-* Business Intelligence
-
-### 📈 Data Visualization
-
-* Microsoft Excel Dashboards
+* Excel
 * Power BI
-* Charts & Graphs
-* Interactive Reports
-* Data Storytelling
-* Performance Dashboards
-
-### 🗄️ Database & Analytics
-
 * SQL
 * MySQL
-* Joins
-* Subqueries
-* Window Functions
-* Aggregate Functions
-* Data Extraction
-* Database Design
+* Data Cleaning
+* Data Visualization
+* Dashboard Development
+* KPI Reporting
+* Business Analytics
 
-### 🐍 Programming & Analytics
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Data Analysis Projects
-* Data Processing
-
-### 📊 Statistics & Analytics Concepts
-
-* Descriptive Statistics
-* Mean, Median & Mode
-* Correlation Analysis
-* Trend Analysis
-* Data Interpretation
-* Business Metrics Analysis
-
-### 🤖 Automation & AI
-
-* n8n Workflow Automation
-* AI API Integration
-* Telegram Bot Development
-* WhatsApp Automation
-* Gmail Automation
-* Webhooks & API Integration
-* JSON Processing
-
-### 🧠 Backend Development
+### 🐍 Programming
 
 * Python
-* Django (Beginner)
 * PHP
-* MySQL
-* CRUD Applications
+* Django (Beginner)
+* JavaScript
 
-### 🎨 Frontend Development
+### 🤖 Automation
+
+* n8n
+* API Integration
+* Telegram Bots
+* Gmail Automation
+* Google Sheets Automation
+* Webhooks
+
+### 🎨 Frontend
 
 * HTML
 * CSS
-* JavaScript
 * Bootstrap
 * Tailwind CSS
 
-### 🔧 Tools & Technologies
-
-* Git & GitHub
-* REST APIs
-* Google Sheets
-* Apps Script
-* PHPMailer
-* Gmail API
-* PDF Generation Systems
-
 ---
 
-## 💼 Projects & Experience
+## 💼 Featured Projects
 
-### 📊 Walmart Sales Dashboard
+📊 Walmart Sales Dashboard (Excel)
 
-* Interactive Excel Dashboard
-* KPI Cards
-* Dynamic Charts
-* Customer Analysis
-* Product Performance Tracking
-* Sales Trend Analysis
-* Interactive Slicers
+📊 SQL Data Analysis Projects
 
-Tools: Excel | Pivot Tables | Data Visualization
+📊 Power BI Dashboards
 
-### 📊 SQL Data Analysis Project
+🤖 EduPay Tracker ERP Automation
 
-* Customer Purchase Analysis
-* Product Performance Analysis
-* Revenue Analysis
-* Business Insights Reporting
+🤖 AI Resume Analyzer & Job Finder
 
-Tools: SQL | MySQL
+🛒 OmniBiz Business Automation System
 
-### 📊 Power BI Dashboard Project
+💸 Fees Management System
 
-* Interactive Reports
-* KPI Monitoring
-* Business Performance Analysis
-* Visual Analytics Dashboard
-
-Tools: Power BI
-
-### 🤖 EduPay Tracker
-
-* Student Fee Tracking
-* Automated Reporting
-* PDF Receipt Generation
-* Analytics Dashboard
-
-Tools: n8n | Google Sheets | Gmail | PHP | MySQL
-
-### 🤖 AI Resume Analyzer & Job Finder
-
-* ATS Score Analysis
-* Resume Evaluation
-* Automated Reporting
-* Job Search Recommendations
-
-Tools: n8n | AI APIs | Gmail
-
-### 🌐 Student Resource & Productivity Hub
-
-* Task Management
-* Productivity Dashboard
-* User Management
-* File Storage System
-
-### 💸 Fees Management System
-
-* Fee Calculation System
-* Receipt Generation
-* Database Management
-
-Tools: PHP | MySQL
+🌐 Student Resource & Productivity Hub
 
 ---
 
 ## 🎯 Career Goals
 
-✅ Become a Data Analyst
-
-✅ Master Excel, SQL, Power BI & Python
-
-✅ Build impactful data-driven solutions
-
-✅ Work on real-world business analytics projects
-
-✅ Grow through freelancing and industry experience
+* Build impactful data-driven solutions
+* Become a skilled Data Analyst
+* Master Excel, SQL, Power BI & Python
+* Solve real-world business problems using data
 
 ---
 
@@ -215,20 +90,62 @@ Tools: PHP | MySQL
 
 ✔ Data-Driven Problem Solving
 
-✔ Continuous Skill Development
+✔ Continuous Skill Improvement
 
 ✔ Practical Implementation First
 
 ---
 
-## 🌐 Socials
+## 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+Feel free to explore my projects and connect for collaboration, internships, and opportunities in Data Analytics, Automation, and Software Development.
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:rahul.coder99@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)](https://github.com/rahulsahani74)
+
+
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rahul Sahani) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rahul Sahani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahul.coder99@gmail.com) 
+
+
+
+# 💻 Tech Stack:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.shion.dev/api?username=rahulsahani74&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://streak-stats.demolab.com/?user=rahulsahani74&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rahulsahani74&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=rahulsahani74&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=rahulsahani74&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 
 ---
 
-📫 Feel free to explore my projects and connect for collaboration, learning opportunities, internships, and Data Analytics roles.
+[![](https://komarev.com/ghpvc/?username=rahulsahani74&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
