@@ -1,27 +1,234 @@
-# 💫 About Me:
-💼 Rahul Sahani<br><br>BCA Student | AI Automation & Backend Developer<br><br>👋 About Me<br><br>I am a BCA student based in Lucknow, focused on building real-world automation systems, backend applications, and AI-powered workflows.<br><br>I specialize in developing practical, scalable solutions that help businesses automate repetitive tasks, improve efficiency, and streamline operations using modern technologies.<br><br>🚀 Current Focus<br>AI Automation & Workflow Development using n8n & APIs<br>Backend Development with Python, Django, PHP & MySQL<br>Designing ERP Systems, Bots & Data-driven Dashboards<br>API Integrations (Telegram, WhatsApp, Gmail, Google Sheets)<br>Building scalable and production-ready digital solutions<br>🛠️ Technical Skills<br>⚙️ Automation & AI<br>n8n Workflow Automation<br>AI API Integration (Groq, OpenRouter, Gemini)<br>Telegram Bot Development<br>WhatsApp Automation (Cloud API)<br>Webhooks & API Integration<br>JSON Processing & Logic Building<br>🧠 Backend Development<br>Python (Project-Based Learning)<br>Django (Beginner Level)<br>PHP & MySQL<br>CRUD Applications & Database Design<br>🎨 Frontend Development<br>HTML, CSS, JavaScript<br>Bootstrap & Tailwind CSS<br>Responsive & Clean UI Design<br>🔧 Tools & Technologies<br>Git & GitHub<br>REST APIs<br>Google Sheets & Apps Script<br>Email Automation (PHPMailer, Gmail API)<br>PDF Generation & Reporting Systems<br>💼 Projects & Experience<br>🤖 EduPay Tracker (Automation ERP System)<br><br>Developed an automation-based ERP solution for educational institutes featuring:<br><br>Student fee tracking (paid, unpaid, partial)<br>Google Sheets integration for real-time data<br>Automated email notifications & receipt generation<br>Analytics dashboard for insights<br>PDF-based receipt system<br>🤖 AI Resume Analyzer & Job Finder<br><br>Built an AI-powered system that:<br><br>Calculates ATS score<br>Provides resume improvement suggestions<br>Generates job search links automatically<br>Sends structured reports via email<br>Implemented using n8n and AI APIs<br>🛒 OmniBiz Automation System<br><br>Designed a business automation workflow including:<br><br>Lead-to-order automation pipeline<br>Telegram bot and web integration<br>Product database & order tracking system<br>Automated customer interaction handling<br>💸 Fees Management System (Web Application)<br>Backend-driven fee calculation system<br>Automated receipt generation<br>Database-integrated system using PHP & MySQL<br>🌐 Student Resource & Productivity Hub<br>Task management system<br>File upload and storage features<br>Productivity-focused dashboard<br>📝 Social Platform (CRUD Application)<br>User authentication (Login/Signup)<br>Post creation, likes, comments<br>User profile management system<br>📥 PDF & File Utility Website<br>File conversion and compression tools<br>Lightweight and responsive interface<br>🎯 Career Goals<br>Secure a role as a Junior Python / Django Developer<br>Build impactful AI & Automation-based solutions<br>Grow through freelancing and real-world projects<br>Help businesses optimize workflows through automation<br>⚡ Work Approach<br>Strong focus on learning by building real projects<br>Problem-solving mindset with practical implementation<br>Continuous improvement and skill enhancement<br>🔗 Connect<br><br>Feel free to explore my projects and connect for collaboration or opportunities.
+# 💫 About Me
 
+💼 Rahul Sahani
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rahul Sahani) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rahul Sahani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahul.coder99@gmail.com) 
+🎓 BCA Student | Data Analyst | AI Automation & Backend Developer
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rahulsahani74&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=rahulsahani74&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rahulsahani74&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+👋 About Me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rahulsahani74&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I am a BCA student based in Lucknow, passionate about Data Analytics, Business Intelligence, Automation, and Backend Development.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I enjoy working with data to discover insights, create interactive dashboards, analyze business performance, and build automation solutions that improve efficiency and decision-making.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rahulsahani74&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Currently, I am focused on strengthening my skills in Excel, SQL, Power BI, Python, Data Visualization, and Business Analytics through hands-on projects and real-world datasets.
 
 ---
-[![](https://komarev.com/ghpvc/?username=rahulsahani74&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Current Focus
+
+📊 Data Analytics & Business Intelligence
+
+📈 Dashboard Development & Data Visualization
+
+🗄️ SQL & Database Analytics
+
+📉 Data Cleaning & Data Preparation
+
+📋 KPI Reporting & Business Insights
+
+🐍 Python for Data Analysis
+
+📊 Power BI Dashboard Development
+
+🤖 AI Automation & Workflow Development
+
+---
+
+## 🛠️ Technical Skills
+
+### 📊 Data Analytics
+
+* Microsoft Excel
+* Advanced Excel
+* Pivot Tables
+* Pivot Charts
+* Lookup Functions
+* Data Cleaning
+* Data Wrangling
+* Data Transformation
+* KPI Analysis
+* Business Reporting
+* Dashboard Development
+* Data Visualization
+* Business Intelligence
+
+### 📈 Data Visualization
+
+* Microsoft Excel Dashboards
+* Power BI
+* Charts & Graphs
+* Interactive Reports
+* Data Storytelling
+* Performance Dashboards
+
+### 🗄️ Database & Analytics
+
+* SQL
+* MySQL
+* Joins
+* Subqueries
+* Window Functions
+* Aggregate Functions
+* Data Extraction
+* Database Design
+
+### 🐍 Programming & Analytics
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Data Analysis Projects
+* Data Processing
+
+### 📊 Statistics & Analytics Concepts
+
+* Descriptive Statistics
+* Mean, Median & Mode
+* Correlation Analysis
+* Trend Analysis
+* Data Interpretation
+* Business Metrics Analysis
+
+### 🤖 Automation & AI
+
+* n8n Workflow Automation
+* AI API Integration
+* Telegram Bot Development
+* WhatsApp Automation
+* Gmail Automation
+* Webhooks & API Integration
+* JSON Processing
+
+### 🧠 Backend Development
+
+* Python
+* Django (Beginner)
+* PHP
+* MySQL
+* CRUD Applications
+
+### 🎨 Frontend Development
+
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+* Tailwind CSS
+
+### 🔧 Tools & Technologies
+
+* Git & GitHub
+* REST APIs
+* Google Sheets
+* Apps Script
+* PHPMailer
+* Gmail API
+* PDF Generation Systems
+
+---
+
+## 💼 Projects & Experience
+
+### 📊 Walmart Sales Dashboard
+
+* Interactive Excel Dashboard
+* KPI Cards
+* Dynamic Charts
+* Customer Analysis
+* Product Performance Tracking
+* Sales Trend Analysis
+* Interactive Slicers
+
+Tools: Excel | Pivot Tables | Data Visualization
+
+### 📊 SQL Data Analysis Project
+
+* Customer Purchase Analysis
+* Product Performance Analysis
+* Revenue Analysis
+* Business Insights Reporting
+
+Tools: SQL | MySQL
+
+### 📊 Power BI Dashboard Project
+
+* Interactive Reports
+* KPI Monitoring
+* Business Performance Analysis
+* Visual Analytics Dashboard
+
+Tools: Power BI
+
+### 🤖 EduPay Tracker
+
+* Student Fee Tracking
+* Automated Reporting
+* PDF Receipt Generation
+* Analytics Dashboard
+
+Tools: n8n | Google Sheets | Gmail | PHP | MySQL
+
+### 🤖 AI Resume Analyzer & Job Finder
+
+* ATS Score Analysis
+* Resume Evaluation
+* Automated Reporting
+* Job Search Recommendations
+
+Tools: n8n | AI APIs | Gmail
+
+### 🌐 Student Resource & Productivity Hub
+
+* Task Management
+* Productivity Dashboard
+* User Management
+* File Storage System
+
+### 💸 Fees Management System
+
+* Fee Calculation System
+* Receipt Generation
+* Database Management
+
+Tools: PHP | MySQL
+
+---
+
+## 🎯 Career Goals
+
+✅ Become a Data Analyst
+
+✅ Master Excel, SQL, Power BI & Python
+
+✅ Build impactful data-driven solutions
+
+✅ Work on real-world business analytics projects
+
+✅ Grow through freelancing and industry experience
+
+---
+
+## ⚡ Work Approach
+
+✔ Learning by Building Real Projects
+
+✔ Data-Driven Problem Solving
+
+✔ Continuous Skill Development
+
+✔ Practical Implementation First
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:rahul.coder99@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)](https://github.com/rahulsahani74)
+
+---
+
+📫 Feel free to explore my projects and connect for collaboration, learning opportunities, internships, and Data Analytics roles.
