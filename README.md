@@ -31,4 +31,4 @@ Building useful AI solutions while deepening my knowledge of LLM integration, ba
 
 ## 🔗 Connect
 
-[GitHub](https://github.com/rahulsahani74) · [Email](mailto:rahul.coder99@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rahul-sahani-a35813353) · [GitHub](https://github.com/rahulsahani74) · [Email](mailto:rahul.coder99@gmail.com)
